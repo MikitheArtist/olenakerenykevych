@@ -1,4 +1,4 @@
-# Hi, I'm Olena!
+# Portfolio
 
 ---
 
@@ -6,8 +6,7 @@
 
 I am a detail-oriented and motivated Junior QA Engineer with a solid foundation in software testing principles, including manual and automated testing. I have hands-on experience with test case design, bug reporting, and working in Agile development environments. I am passionate about ensuring product quality, continuously improving my technical skills, and contributing to effective teamwork. Eager to grow in a professional QA role where I can support the development of reliable and user-friendly software.
 
- [My e-mail](helenchekanovska@gmail.com)
- [My CV](https://drive.google.com/file/d/1oIj5GawaCl-Ya4nUN4MBLUdc8_kJvtIS/view?usp=sharing)
+ [Here is my CV](https://drive.google.com/file/d/1oIj5GawaCl-Ya4nUN4MBLUdc8_kJvtIS/view?usp=sharing)
 
 ---
 
