@@ -12,10 +12,10 @@ I am a detail-oriented and motivated Junior QA Engineer with a solid foundation 
 
 ## Tech Skills
 
-* Testing & QA Knowledge: Test Case Design, UI/UX Testing, Mobile Testing
-* Tools & Platforms: Postman, Browser DevTools, Katalon Recorder, Fiddler, Jira
+* Testing activities: Test Case Design, UI/UX Testing, Mobile and Web Testing, API testing, Bug reporting, Test documentation, BDD, Gherkin
+* Tools & Platforms: Katalon Recorder, Postman, Browser DevTools, Fiddler, Jira, Confluence
 * Databases: MS SQL, MongoDB
-* Programming: HTML/CSS, Git, Basic knowledge of Java / JS
+* Programming: HTML/CSS, Git, Github, Basic knowledge of Java / JS
 
 ---
 
@@ -27,10 +27,14 @@ I am a detail-oriented and motivated Junior QA Engineer with a solid foundation 
 
 ---
 
-## [My Test Documentation](https://linktr.ee/Olena_Kerenykevych)
+## My Test Documentation
+
+[Here is my Test Documentation](https://linktr.ee/Olena_Kerenykevych)
 
 * Test Cases
 * Bug Reports
 * Test Reports
+* Сhecklists
+* API collections
 
 ---
