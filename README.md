@@ -6,7 +6,7 @@
 
 I am a detail-oriented and motivated Junior QA Engineer with a solid foundation in software testing principles, including manual and automated testing. I have hands-on experience with test case design, bug reporting, and working in Agile development environments. I am passionate about ensuring product quality, continuously improving my technical skills, and contributing to effective teamwork. Eager to grow in a professional QA role where I can support the development of reliable and user-friendly software.
 
- [Here is my CV](https://drive.google.com/file/d/1DqgVu2K4_Qd7n5nNaq6XAvZKicY8aFob/view?usp=sharing)
+ [Here is my CV](https://drive.google.com/file/d/1paW9YWg1wN9CJ1q3WplH2c0-_Bp10Dyl/view?usp=drive_link)
 
 ---
 
