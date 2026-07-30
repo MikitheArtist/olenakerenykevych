@@ -12,7 +12,7 @@ I like the moment right before you file a bug — when something looks "probably
 
 Currently building toward a Manual QA role, with a growing interest in API testing and test automation fundamentals.
 
- [Here is my CV](https://drive.google.com/file/d/1J5kJe2mwAVespT7V0Glbu64q_ELMWnka/view?usp=sharing)
+ [Here is my CV](https://drive.google.com/file/d/11Mk3snQk7FCXeukLCmxOy7aIfrYNOD22/view?usp=sharing)
 
 ---
 
