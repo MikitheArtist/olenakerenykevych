@@ -20,7 +20,7 @@ Currently building toward a Manual QA role, with a growing interest in API testi
 
 * Testing activities: Test Case Design, UI/UX Testing, Mobile and Web Testing, API testing, Bug reporting, Test documentation, BDD, Gherkin
 * Tools & Platforms: Katalon Recorder, Postman, Browser DevTools, Fiddler, Jira, Confluence
-* Databases: MS SQL, MongoDB
+* Databases: MS SQL (SSMS), MongoDB
 * Programming: HTML/CSS, Git, Github, Basic knowledge of Java / JS
 
 ---

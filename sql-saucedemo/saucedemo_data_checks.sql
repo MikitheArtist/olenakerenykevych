@@ -1,6 +1,6 @@
 -- Saucedemo: SQL data integrity checks
 -- Author: Olena Kerenykevych
--- DBMS: MS SQL Server (tested on dbfiddle.uk)
+-- DBMS: MS SQL Server, SQL Server Management Studio (SSMS)
 -- Part 1 creates the database and test data, part 2 contains the checks.
 
 -- =========================================================

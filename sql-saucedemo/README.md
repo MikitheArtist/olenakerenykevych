@@ -2,7 +2,7 @@
 
 A practice project in database testing. I modeled the data of the [Saucedemo](https://www.saucedemo.com/) online store in MS SQL Server, wrote business rules based on how the site behaves, and wrote SQL queries that check the data against these rules.
 
-- **DBMS:** MS SQL Server (run on [dbfiddle.uk](https://dbfiddle.uk))
+- **DBMS:** MS SQL Server, SQL Server Management Studio (SSMS)
 - **Date:** October 2026
 - **File:** [`saucedemo_data_checks.sql`](saucedemo_data_checks.sql) (schema, test data and all checks)
 
@@ -58,6 +58,16 @@ The test data contained an unknown number of seeded defects. The data was prepar
 
 ## How to run
 
-1. Open [dbfiddle.uk](https://dbfiddle.uk) and select SQL Server.
-2. Paste part 1 of `saucedemo_data_checks.sql` (schema and data) and any check from part 2.
-3. Click Run.
+**In SQL Server Management Studio:**
+
+1. Create a database and switch to it:
+   ```sql
+   CREATE DATABASE saucedemo;
+   GO
+   USE saucedemo;
+   GO
+   ```
+2. Open `saucedemo_data_checks.sql`, select part 1 (schema and data) and run it (F5).
+3. Select any check from part 2 and run it.
+
+**Online, without installing anything:** open [dbfiddle.uk](https://dbfiddle.uk), select SQL Server, paste part 1 and any check from part 2, click Run.
