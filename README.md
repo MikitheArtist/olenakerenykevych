@@ -32,7 +32,13 @@ Currently building toward a Manual QA role, with a growing interest in API testi
 * GeeksForLess Inc. Automated Testing courses
 
 ---
+## SQL Project
 
+[Saucedemo: SQL Data Integrity Checks](sql-saucedemo/)
+
+A database modeled on the Saucedemo store (MS SQL Server): 4 tables, 7 business rules and SQL checks for each rule. 12 data defects found: duplicates, broken references between tables, wrong order totals and tax.
+
+---
 ## My Test Documentation
 
 [Here is my Test Documentation](https://linktr.ee/Olena_Kerenykevych)
